@@ -4,9 +4,7 @@ page-layout: full
 about:
   template: trestles
   image: static/profile.jpg
-  
 ---
-
 
 
 Hi, my name is Simon. I'm an assistant professor at Aarhus University. I'm also a dad and rock climbing enthusiast. Here are some more things about me:

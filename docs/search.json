@@ -5,5 +5,40 @@
     "title": "About me",
     "section": "",
     "text": "Hi, my name is Simon. I’m an assistant professor at Aarhus University. I’m also a dad and rock climbing enthusiast. Here are some more things about me:\n\nI’m fascinated by morality. What do we consider to be good or bad? What makes a person virtuous? And what do actions reveal about a person’s moral character? For example, I’ve written a paper on how fans of Logan Paul reacted in light of the “suicide forest scandal”.\nI love R. I’m always eager to learn new things about R, new packages, ways to be creative, analyzing data. Above all, I love visualizing data.\nMy current main projects revolve around hate and counterspeech on the internet. Together with fantastic colleagues, I’m working on the STANDBY project, trying to understand what makes people stand up against online hate, and what effects upstanding has to decrease hate long term.\nI have also worked on corruption and dishonesty, in particular the phenomenon of collaborative corruption, when people collaborate in order to achieve dishonest goals. For instance, I’ve found that cheating collaboratively increases mutual trust.\nI am a strong proponent of open science. All my studies and projects have open data, open materials and open code. You can find most of my materials on OSF.\nYou can find a few examples of my work and projects showcased on this website."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below, you can find some things I’ve done :)\n\n\n\n\n\n\n\n\n  \n\n\n\n\nAn overview of social media use and experiences of hate in Denmark\n\n\n\n\n\n\n\n\n\n\n\n\nApr 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nproject2\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nproject3\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Karg, S. T., Kim, M., Mitkidis, P., & Young, L. (2022). Collaborative Cheating in Hierarchical Teams: Effects of Incentive Structure and Leader Behavior on Subordinate Behavior and Perceptions of Leaders. Personality and Social Psychology Bulletin. https://doi.org/10.1177/01461672221090859\nKarg, S. T., Lim, M., & Schnall, S. (2022). Followers Forever: Prior Commitment Predicts Post- Scandal Support of a Social Media Celebrity. Social Psychological Bulletin, 17, 1-26. https://doi.org/10.32872/spb.8283\nAndresen, M. J., Karg, S. T. S., Rasmussen, S. H. R., Pradella, L., Rasmussen, J., Lindekilde, L., & Petersen, M. B. (2022). Danskernes oplevelse af had på sociale medier. Aarhus Universitet.\nMorris, B.S., Chrysochou, P., Karg, S.T. (2020); Optimistic vs. pessimistic endings in climate change appeals. Humanit Soc Sci Commun 7, 82. https://doi.org/10.1057/s41599-020-00574-z\nKoumaditis K., Chinello F., Mitkidis P., Karg S.T. (2020); Effectiveness of Virtual Versus Physical Training: The Case of Assembly Tasks, Trainer’s Verbal Assistance, and Task Complexity. IEEE Computer Graphics and Applications 40. https://doi.org/10.1109/MCG.2020.3006330\nKarg, S.T., Wiener-Blotner, A., Schnall, S. (2018); Disgust Sensitivity is Associated with Heightened Risk Perception. Journal of Risk Research. https://doi.org/10.1080/13669877.2018.1474244"
+  },
+  {
+    "objectID": "projects/project1.html",
+    "href": "projects/project1.html",
+    "title": "An overview of social media use and experiences of hate in Denmark",
+    "section": "",
+    "text": "As part of the STANDBY and Research on Online Political Hostility projects, we analyzed the social media use and related experiences with hateful content of Danes. We invited over 200,000 Danes to participate, and have representative data from over 20,000 people. This makes this one of the largest investigations into experienced hate on social media. The one caveat is that this data relies solely on self report, although we are working on tying it together with actual social media data, as well as Danish registry data.\nBelow, I’m showcasing some interesting plots from this survey. A complete report exists in Danish.\n\nOverview over Danish social media use\nThe following plots show which social media platforms are popular, and across which demographics.\n\noverallby ageby sexby political leaning\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExperience with hate\n\nby platformby ageby sexby political leaning\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTopics related to hateful experiences\n\nby ageby sexby political leaning\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReactions to hate\n\noverallby ageby sexby political leaning"
+  },
+  {
+    "objectID": "projects/project2.html",
+    "href": "projects/project2.html",
+    "title": "project2",
+    "section": "",
+    "text": "another project I’m working on\n…"
+  },
+  {
+    "objectID": "projects/project3.html",
+    "href": "projects/project3.html",
+    "title": "project3",
+    "section": "",
+    "text": "Yet another project.\n…"
   }
 ]
