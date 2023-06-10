@@ -1,0 +1,101 @@
+---
+title: "An overview of social media use and experiences of hate in Denmark"
+date: "04/14/2023"
+format: 
+  html:
+    link-external-newwindow: true
+---
+
+As part of the [STANDBY](https://ps.au.dk/forskning/forskningsprojekter/standby) and [Research on Online Political Hostility](https://ps.au.dk/forskning/forskningsprojekter/research-on-online-political-hostility) projects, we analyzed the social media use and related experiences with hateful content of Danes. We invited over 200,000 Danes to participate, and have representative data from over 20,000 people. This makes this one of the largest investigations into experienced hate on social media. The one caveat is that this data relies solely on self report, although we are working on tying it together with actual social media data, as well as Danish registry data. 
+
+Below, I'm showcasing some interesting plots from this survey. A [complete report](https://pure.au.dk/portal/files/271291115/Danskernes_oplevelse_af_had_pa_de_sociale_medier_Rapport_Aarhus_Universitet_.pdf) exists in Danish. 
+
+
+
+# Overview over Danish social media use
+
+The following plots show which social media platforms are popular, and across which demographics.
+
+::: {.panel-tabset}
+
+## overall
+
+![](../static/danish_SoMe_survey/overview_use.png)
+
+
+## by age
+
+![](../static/danish_SoMe_survey/use_age.png)
+
+## by sex
+
+![](../static/danish_SoMe_survey/use_sex_wide.png)
+
+## by political leaning
+
+![](../static/danish_SoMe_survey/use_politics_wide.png)
+
+:::
+
+
+# Experience with hate
+
+::: {.panel-tabset}
+
+## by platform
+![](../static/danish_SoMe_survey/experience_hate_cols.png)
+
+## by age
+
+![](../static/danish_SoMe_survey/experience_hate_cols_by_age.png)
+
+## by sex
+
+![](../static/danish_SoMe_survey/experience_hate_cols_by_sex.png)
+
+## by political leaning
+![](../static/danish_SoMe_survey/experience_hate_cols_by_pol.png)
+
+:::
+
+
+# Topics related to hateful experiences
+
+::: {.panel-tabset}
+
+## by age
+
+![](../static/danish_SoMe_survey/bump_plot_age.png)
+
+## by sex
+
+![](../static/danish_SoMe_survey/bump_plot_sex.png)
+
+## by political leaning
+![](../static/danish_SoMe_survey/bump_plot_pol.png)
+
+:::
+
+# Reactions to hate
+
+
+::: {.panel-tabset}
+
+## overall
+
+![](../static/danish_SoMe_survey/reactions_cutoff.png)
+
+
+## by age
+
+![](../static/danish_SoMe_survey/reactions_age.png)
+
+## by sex
+
+![](../static/danish_SoMe_survey/reactions_sex.png)
+
+## by political leaning
+![](../static/danish_SoMe_survey/reactions_ideology.png)
+
+:::
+

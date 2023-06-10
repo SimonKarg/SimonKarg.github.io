@@ -1,0 +1,27 @@
+project:
+  type: website       # this could also be "blog"
+  output-dir: docs    # for publishing via github pages (don't forget to add the .nojekyll file to the docs)
+
+website:
+  title: "Simon Karg"
+  favicon: static/favicon.png 
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - publications.qmd
+      - projects.qmd
+      
+      # - cv.qmd
+    tools:
+      - icon: twitter
+        href: https://twitter.com/simanfication
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+
+editor: visual
+

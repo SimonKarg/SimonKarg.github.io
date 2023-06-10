@@ -1,0 +1,26 @@
+---
+title: "About me"
+page-layout: full
+about:
+  template: trestles
+  image: static/profile.jpg
+  
+---
+
+
+
+Hi, my name is Simon. I'm an assistant professor at Aarhus University. I'm also a dad and rock climbing enthusiast. Here are some more things about me:
+
+-   I'm fascinated by morality. What do we consider to be good or bad? What makes a person virtuous? And what do actions reveal about a person's moral character? For example, I've written a [paper](https://spb.psychopen.eu/index.php/spb/article/view/8283){target="_blank"} on how fans of Logan Paul reacted in light of the "suicide forest scandal". 
+
+-   I love R. I'm always eager to learn new things about R, new packages, ways to be creative, analyzing data. Above all, I love visualizing data.
+
+-   My current main projects revolve around hate and counterspeech on the internet. Together with fantastic colleagues, I'm working on the [STANDBY project](https://ps.au.dk/forskning/forskningsprojekter/standby){target="_blank"}, trying to understand what makes people stand up against online hate, and what effects upstanding has to decrease hate long term. 
+
+-  I have also worked on corruption and dishonesty, in particular the phenomenon of collaborative corruption, when people collaborate in order to achieve dishonest goals. For instance, I've found that [cheating collaboratively increases mutual trust](https://journals.sagepub.com/doi/abs/10.1177/01461672221090859){target="_blank"}.
+
+-  I am a strong proponent of open science. All my studies and projects have open data, open materials and open code. You can find most of my materials on [OSF](https://osf.io/qu79k){target="_blank"}.
+
+-  You can find a few examples of my work and [projects](projects.qmd) showcased on this website.
+
+

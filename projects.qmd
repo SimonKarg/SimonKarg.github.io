@@ -1,0 +1,10 @@
+---
+title: "Projects"
+listing: 
+  id: project-listing
+  contents: 
+    - "projects/*.qmd"
+  type: default
+---
+
+Below, you can find some things I've done :) 
