@@ -1,10 +1,17 @@
 ---
 title: "Projects"
+subtitle: "Below, you can find some things I've done :) "
 listing: 
   id: project-listing
   contents: 
     - "projects/*.qmd"
   type: default
+  sort: "date-desc"
+  filter-ui: false
+  sort-ui: false
+title-block-banner: "#c4cce0"
+page-layout: full
 ---
 
-Below, you can find some things I've done :) 
+
+
