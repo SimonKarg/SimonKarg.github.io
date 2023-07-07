@@ -7,11 +7,11 @@ about:
 ---
 
 
-Hi, my name is Simon. I'm an assistant professor at Aarhus University. I'm also a dad and rock climbing enthusiast. Here are some more things about me:
+Hi, my name is Simon. I'm an assistant professor at [Aarhus University](https://pure.au.dk/portal/da/persons/simon-tobias-schulz-karg(535467e3-c79a-4be4-aa51-1192cc38be7a).html){target="_blank"}. I'm also a dad and rock climbing enthusiast. Here are some more things about me:
 
 -   I'm fascinated by morality. What do we consider to be good or bad? What makes a person virtuous? And what do actions reveal about a person's moral character? For example, I've written a [paper](https://spb.psychopen.eu/index.php/spb/article/view/8283){target="_blank"} on how fans of Logan Paul reacted in light of the "suicide forest scandal". 
 
--   I love R. I'm always eager to learn new things about R, new packages, ways to be creative, analyzing data. Above all, I love visualizing data.
+-   I love R. I'm always eager to learn new things about R, new packages, ways to be creative, analyzing data. Above all, I love visualizing data. I've also taught a PhD level course on advanced R. All my slides and materials are freely available over [here](https://simonkarg.github.io/advanced_r_course/){target="_blank"}.
 
 -   My current main projects revolve around hate and counterspeech on the internet. Together with fantastic colleagues, I'm working on the [STANDBY project](https://ps.au.dk/forskning/forskningsprojekter/standby){target="_blank"}, trying to understand what makes people stand up against online hate, and what effects upstanding has to decrease hate long term. 
 

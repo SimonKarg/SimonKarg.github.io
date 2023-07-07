@@ -1,7 +1,16 @@
 ---
-title: "project2"
+title: "PhD Course on Advanced R"
+date: "07/07/2023"
+format: 
+  html:
+    link-external-newwindow: true
 ---
 
-another project I'm working on
+In June 2023, I've taught a PhD course on Advanced R. 
 
-...
+The course materials are freely available [here](https://simonkarg.github.io/advanced_r_course/).
+
+The course is a five-day intensive PhD level course designed for intermediate R users who want to take their skills to the next level. The course covers a range of topics, including project documentation, workflow optimization, ensuring reproducibility, data cleaning and manipulation, advanced plotting, advanced programming functions, and building websites with R.
+
+
+I am planning to hold this course again in the future. If you would like to attend this course in the future, or invite me to host it at your own institution, please reach out.

@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "About me",
     "section": "",
-    "text": "Hi, my name is Simon. I’m an assistant professor at Aarhus University. I’m also a dad and rock climbing enthusiast. Here are some more things about me:\n\nI’m fascinated by morality. What do we consider to be good or bad? What makes a person virtuous? And what do actions reveal about a person’s moral character? For example, I’ve written a paper on how fans of Logan Paul reacted in light of the “suicide forest scandal”.\nI love R. I’m always eager to learn new things about R, new packages, ways to be creative, analyzing data. Above all, I love visualizing data.\nMy current main projects revolve around hate and counterspeech on the internet. Together with fantastic colleagues, I’m working on the STANDBY project, trying to understand what makes people stand up against online hate, and what effects upstanding has to decrease hate long term.\nI have also worked on corruption and dishonesty, in particular the phenomenon of collaborative corruption, when people collaborate in order to achieve dishonest goals. For instance, I’ve found that cheating collaboratively increases mutual trust.\nI am a strong proponent of open science. All my studies and projects have open data, open materials and open code. You can find most of my materials on OSF.\nYou can find a few examples of my work and projects showcased on this website."
+    "text": "Hi, my name is Simon. I’m an assistant professor at Aarhus University. I’m also a dad and rock climbing enthusiast. Here are some more things about me:\n\nI’m fascinated by morality. What do we consider to be good or bad? What makes a person virtuous? And what do actions reveal about a person’s moral character? For example, I’ve written a paper on how fans of Logan Paul reacted in light of the “suicide forest scandal”.\nI love R. I’m always eager to learn new things about R, new packages, ways to be creative, analyzing data. Above all, I love visualizing data. I’ve also taught a PhD level course on advanced R. All my slides and materials are freely available over here.\nMy current main projects revolve around hate and counterspeech on the internet. Together with fantastic colleagues, I’m working on the STANDBY project, trying to understand what makes people stand up against online hate, and what effects upstanding has to decrease hate long term.\nI have also worked on corruption and dishonesty, in particular the phenomenon of collaborative corruption, when people collaborate in order to achieve dishonest goals. For instance, I’ve found that cheating collaboratively increases mutual trust.\nI am a strong proponent of open science. All my studies and projects have open data, open materials and open code. You can find most of my materials on OSF.\nYou can find a few examples of my work and projects showcased on this website."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "An overview of social media use and experiences of hate in Denmark\n\n\n\n\n\n\n\n\n\n\n\n\nApr 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nproject2\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+    "text": "An overview of social media use and experiences of hate in Denmark\n\n\n\n\n\n\n\n\n\n\n\n\nApr 14, 2023\n\n\n\n\n\n\n  \n\n\n\n\nPhD Course on Advanced R\n\n\n\n\n\n\n\n\n\n\n\n\nJul 7, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
@@ -30,9 +30,9 @@
   {
     "objectID": "projects/project2.html",
     "href": "projects/project2.html",
-    "title": "project2",
+    "title": "PhD Course on Advanced R",
     "section": "",
-    "text": "another project I’m working on\n…"
+    "text": "In June 2023, I’ve taught a PhD course on Advanced R.\nThe course materials are freely available here.\nThe course is a five-day intensive PhD level course designed for intermediate R users who want to take their skills to the next level. The course covers a range of topics, including project documentation, workflow optimization, ensuring reproducibility, data cleaning and manipulation, advanced plotting, advanced programming functions, and building websites with R.\nI am planning to hold this course again in the future. If you would like to attend this course in the future, or invite me to host it at your own institution, please reach out."
   },
   {
     "objectID": "projects/project3.html",
